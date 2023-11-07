@@ -1,4 +1,4 @@
-# Resume Builder 
+# [Resume Builder](https://resume-builder-app-project.netlify.app/)
 Capstone Project @ Almabetter
 
 ## Introduction
@@ -70,7 +70,7 @@ Folder PATH listing folder src:....
 │   │       actions.js
 │   │       
 │   └───Reducers
-│           combinedReducers.js
+│           allReducers.js
 │           reducers.js
 │           
 ├───Styles
@@ -114,12 +114,15 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
-https://resume-builder-app-project.netlify.app/
-
+(https://resume-builder-app-project.netlify.app/)
 
 # $ Walkthrough video link $
-https://www.youtube.com/watch?v=mYB6pGAStgU
+[Youtube Link](https://youtu.be/mYB6pGAStgU)
 
+# $ Contributors $
+- [Sarvesh Kumar](https://github.com/Sarveshkumar0611)
+- [Bhaskar Kumar](https://github.com/Bhashkarkumar)
+- [Rajdeep Dey](https://github.com/RajdeepDey010)
 
 
 
